@@ -51,8 +51,9 @@ Student_Management_System/
 
 Clone the repository:
 
+```
 git clone https://github.com/your-username/Student-Management-System.git
-
+```
 
 Import the project into Eclipse IDE.
 
