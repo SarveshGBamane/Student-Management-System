@@ -25,6 +25,7 @@ Student Management System is a console-based Java application that performs CRUD
 ---
 
 ## Project Structure
+```
 Student_Management_System/
 │
 ├── com.app.model
@@ -43,7 +44,7 @@ Student_Management_System/
 │ └── UI.java
 │
 └── README.md
-
+```
 ---
 
 ## How to Run the Project
